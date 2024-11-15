@@ -6,6 +6,9 @@
 
 ## Emphasis on regular code commits and automated testing.
 
+- **Frequent Commits**: Encourage developers to commit small, incremental changes to the main branch frequently. This reduces the complexity of merges and helps identify issues early.
+
+
 ---
 
 ## Tips for setting up effective CI pipelines.
